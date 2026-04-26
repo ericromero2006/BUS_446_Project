@@ -1,6 +1,7 @@
 # BUS_446_Project
 Final Project
 Questions:
+
 1: What is the relationship between educational attainment and median household income across U.S. states?
 
 Positive but non-linear relationships 
@@ -20,6 +21,7 @@ Some states have high education but only moderate income — education alone isn
 Clear but uneven regional patterns. Income varies across regions — yet states within the same region can have very different outcomes.
 
 Project Conclusion
+
 Education matters, but not alone (It's an important factor — not the only one determining income)
 Normalization improves accuracy (Adjusting for population size enables fairer state comparisons)
 Future improvements (Additional variables — cost of living, industry mix — could deepen the analysis)
